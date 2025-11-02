@@ -1,0 +1,7 @@
+.env
+.env.*
+
+/app
+/bin/
+/build/
+*.exe
